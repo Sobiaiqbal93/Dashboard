@@ -1,1 +1,1 @@
-This repository contains two 
+This repository contains two RShiny projects.
